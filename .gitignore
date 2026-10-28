@@ -1,0 +1,14 @@
+# Estado y llaves del TPM simulado
+tpm_state/
+claves/
+swtpm.pid
+
+# Archivos generados por la demo
+componentes/
+componentes_buenos/
+salida/
+salida_vieja/
+salida_falsa/
+salida_buena/
+golden.json
+nonce.txt
